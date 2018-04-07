@@ -10,5 +10,5 @@ In addition to the sound effect, one of them uses `notify-send` for desktop noti
 
 Since I didn't come up with these ideas on my own, I see fit to mention the following sources I learned and gained inspiration from:
 
-https://www.maketecheasier.com/desktop-notifications-for-linux-command/
-https://stackoverflow.com/a/5947802/3969218
+- https://www.maketecheasier.com/desktop-notifications-for-linux-command/
+- https://stackoverflow.com/a/5947802/3969218
